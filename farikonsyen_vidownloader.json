@@ -1,0 +1,12 @@
+{
+  "tag_name": "v2.9",
+  "name": "Version 2.9",
+  "assets": [
+    {
+      "name": "SkyTube-Extra-2.984.apk",
+      "label": null,
+      "content_type": "application/vnd.android.package-archive",
+      "browser_download_url": "https://github.com/SkyTubeTeam/SkyTube/releases/download/v2.984/SkyTube-Extra-2.984.apk"
+    }
+  ]
+}
