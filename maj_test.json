@@ -1,3 +1,4 @@
+[
 {
   "tag_name": "v9.0.7",
   "name": "26th December 2022",
@@ -19,3 +20,4 @@
   ],
   "body": "<h2>Fixed:</h2>\r\n\r\n- Issue where torrent is crashing when saving state of interrupted downloads.\r\n- Subtitle not downloading due to long file name.\r\n- Subtitle not showing issue.\r\n- Crash on saving interrupted downloads.\r\n- Downloaded subtitles not showing in the app.\r\n"
 }
+ ]
