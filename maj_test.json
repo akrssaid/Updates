@@ -15,7 +15,7 @@
       "size": 40710204,
       "created_at": "2022-12-10T11:58:22Z",
       "updated_at": "2022-12-10T11:58:24Z",
-      "browser_download_url": "https://github.com/recloudstream/cloudstream/releases/download/v4.0.1/4.0.1.apk"
+      "browser_download_url": ""
     }
   ],
   "body": "<h2>Fixed:</h2>\r\n\r\n- Issue where torrent is crashing when saving state of interrupted downloads.\r\n- Subtitle not downloading due to long file name.\r\n- Subtitle not showing issue.\r\n- Crash on saving interrupted downloads.\r\n- Downloaded subtitles not showing in the app.\r\n"
