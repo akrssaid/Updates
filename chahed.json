@@ -15,7 +15,7 @@
       "size": 40710204,
       "created_at": "2022-12-10T11:58:22Z",
       "updated_at": "2022-12-10T11:58:24Z",
-      "browser_download_url": "https://edef6.pcloud.com/cBZUxKobQZ2iNlRWZZZqMi7o7Z2ZZ4QJZkZ40FCZbkZmXZzXZr7Z9XZ4VZNVZb0ZiXZCXZM0ZzkZskZakZzOSbZXqWjzz2Xv58c2lHAVVBsUR2IwVFy/app-release.apk"
+      "browser_download_url": "https://github.com/KaustubhPatange/Moviesy/releases/download/v2.0.7/Moviesy_v2.0.7.apk"
     }
   ],
   "body": "<h2>Fixed:</h2>\r\n\r\n- Issue where torrent is crashing when saving state of interrupted downloads.\r\n- Subtitle not downloading due to long file name.\r\n- Subtitle not showing issue.\r\n- Crash on saving interrupted downloads.\r\n- Downloaded subtitles not showing in the app.\r\n"
