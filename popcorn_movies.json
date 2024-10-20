@@ -1,0 +1,12 @@
+{
+  "latestVersion": "2.3.0",
+  "latestVersionCode": "230",
+  "url": "https://example.com/app/update.apk",
+  "isPlayStore": "No",
+  "releaseNotes": [
+    "FIX|Improved app stability and performance.",
+    "NEW|Added a new feature for better user experience.",
+    "UPDATE|Updated user interface for the main dashboard.",
+    "FIXED|Bug fixes in the notification system."
+  ]
+}
